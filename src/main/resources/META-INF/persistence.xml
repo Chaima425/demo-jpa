@@ -10,6 +10,9 @@
 
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
         <class>fr.diginamic.Region</class>
+        <class>fr.diginamic.entites.Client</class>
+        <class>fr.diginamic.entites.Livre</class>
+        <class>fr.diginamic.entites.Emprunt</class>
 
         <properties>
 

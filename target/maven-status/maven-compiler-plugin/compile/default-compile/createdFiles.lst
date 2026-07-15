@@ -1,3 +1,6 @@
 fr/diginamic/Region.class
 fr/diginamic/App.class
+fr/diginamic/entites/Client.class
+fr/diginamic/entites/Livre.class
+fr/diginamic/entites/Emprunt.class
 fr/diginamic/ConnexionJpa.class
